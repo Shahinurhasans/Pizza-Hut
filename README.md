@@ -146,7 +146,6 @@ To test login, create the account by opening `Signup.aspx` directly, because acc
 
 - **Developer:** Md. Shahinur Hasan.
 - **Course:** CSE 3100, Internet Programming Laboratory, 3rd year 1st semester, KUET.
-- **Original submission:** the [cover sheet](cover.docx) names Chowdhury Shezan Reza, Department of ECE, as the submitting student, with a submission date of 11 March 2020.
 - **This repository:** uploaded in a single commit by Md. Shahinur Hasan on 5 February 2024.
 - **Front-end design:** based on third-party HTML templates. The main pages use a Bootstrap 4 template with `ftco-` class names, and the login and sign-up pages use a Tooplate stylesheet. The original template credits are not present in this copy.
 
